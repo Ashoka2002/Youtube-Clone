@@ -1,4 +1,4 @@
-If you want to run this project on your localhost then follow these steps:-
+### If you want to run this project on your localhost then follow these steps:-
 
 1. clone this repository
 2. run this command in terminal :- npm install
